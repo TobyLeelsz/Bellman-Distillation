@@ -19,7 +19,7 @@ CKPT="path/to/qwen2.5-0.5b-sft"
 TEACHER_CKPT_NAME="3B-sft"
 TEACHER_CKPT="path/to/qwen2-3b-sft"
 # data
-PROMPT_DATA_DIR="path/to/prompt_data"
+PROMPT_DATA_DIR="path/to/teacher_data"
 LM_DATA_DIR="path/to/openwebtext_data"
 # runtime
 SAVE_PATH="${BASE_PATH}/results/qwen2/train/bellman/"

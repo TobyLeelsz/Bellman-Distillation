@@ -35,3 +35,14 @@ bash scripts/train_0.5B_3B.sh
 ```
 bash scripts/eval/run_eval.sh
 ```
+## Citation
+If you find our work helpful to your research, please consider citing our paper as follows:
+```
+@article{Yu2025LanguageMD,
+  title={Language Model Distillation: A Temporal Difference Imitation Learning Perspective},
+  author={Zishun Yu and Shangzhe Li and Xinhua Zhang},
+  journal={ArXiv},
+  year={2025},
+  volume={abs/2505.20335},
+}
+```
